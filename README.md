@@ -1,6 +1,8 @@
 # SiteFrontend
 
-Nesse projeto eu peguei o HTML do site da minha faculdade e criei um portal para ter um código react. 
+Nesse projeto eu peguei o HTML do site da minha faculdade e criei um portal para ter um código react.
+
+Recomenda-se baixar apenas o site.html
 
 Eu usei o comando npm create next-app@latest portal no terminal do VS Code para criar um portal no terminal.
 Depois utilizei o comando cd portal para direcionar o portal para o terminal.
